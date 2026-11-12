@@ -1,20 +1,32 @@
 id:"1"
 type:"document"
-titre:"Cours PHP"
-mots-cles:"développement, web, php"
-description:"Cours complet sur PHP avec 
-plusieurs chapitres et exemples pratiques."
+titre:"top paramettres graphique"
+mots-cles:"développement, simulation, simulateur"
+description:"Voici les jeux de simulation du moment."
 fichier:"document_1.pdf"
 date:"2025-11-14"
 
 id:"2"
 type:"favori"
-titre:"10 règles d’or en matière de sécurité numérique"
-mots-cles:"cybersécurité, numérique, mot de passe, mail, virus, malware"
-description:"La réduction des risques induits par l’usage des technologies 
-numériques :repose d’abord sur le respect de bonnes pratiques à adopter. 
-À elles seules, ces dix règles d’or vous protègeront de la majorité des risques 
-numériques qui pèsent sur vos usages personnels ou professionnels."
+titre:"10 meilleurs jeux videos"
+mots-cles:"jeux videos, meilleur, console, mail, virus, malware"
+description:"les 10meilleurs jeux videos pour l'anne 2026"
 url:"https://cyber.gouv.fr/10-regles-dor-en-matiere-de-securite-numerique"
 date:"2025-08-07"
 
+id:"3"
+type:"document"
+titre:"meilleurs consoles"
+mots-cles:"console, performances, incroyable"
+description:"compartif des consoles sur le marcher des jeux videos."
+fichier:"document_2.pdf"
+url:"https://www.bing.com/search?pglt=43&q=meilleurs+consoles&cvid=d550c998ca764d59bf9caf5de57e9b21&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhA0gEHNDIyajBqN6gCALACAA&FORM=ANNTA1&PC=U531"
+date:"2026-10-13"
+
+id:"4"
+type:"favori"
+titre:"meilleur jeux de combat 2026"
+mots-cles:"jeux videos, meilleur, combat, jeux"
+description:"les meilleur jeux de combat au quels joue en cette anne 2026"
+url:"https://www.bing.com/videos/riverview/relatedvideo?q=meiilleur+jeux+de+combat+2026+youtube&qs=n&sp=-1&ghc=1&lq=0&pq=meiilleur+jeux+de+combat+2026+youtube&sc=12-37&sk=&cvid=10C237DF94294CA592ED7FBB4DB65143&ajaxnorecss=1&sid=0EF4D61889FA668B162ACE1088DE672B&jsoncbid=0&ajaxsydconv=1&ru=%2fsearch%3fq%3dmeiilleur%2520jeux%2520de%2520combat%25202026%2520youtube%26qs%3dn%26form%3dQBRE%26sp%3d-1%26ghc%3d1%26lq%3d0%26pq%3dmeiilleur%2520jeux%2520de%2520combat%25202026%2520youtube%26sc%3d12-37%26sk%3d%26cvid%3d10C237DF94294CA592ED7FBB4DB65143%26ajaxnorecss%3d1%26sid%3d0EF4D61889FA668B162ACE1088DE672B%26format%3dsnrjson%26jsoncbid%3d0%26ajaxsydconv%3d1&mmscn=vwrc&mid=E0C4190E1828B8FB9CAEE0C4190E1828B8FB9CAE&FORM=WRVORC&ntb=1&msockid=0c532059d93211f1a948af9ddbac69b9"
+date:"2025-08-07"  
